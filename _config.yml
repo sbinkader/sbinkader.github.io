@@ -45,7 +45,7 @@ github_username: sbinkader
 # google_analytics: "UA-00000000-0"
 
 # About Section
-about_title: A Little About Myself
+about_title: About Me
 about_profile_image: images/originalProfile1.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name is Safran and I'm a fourth year computer science major student. Throughout my degree I have worked on a variety of projects and developed a passion for front-end dev using various industry standard frameworks. I am most skilled in: <mark>react</mark> and <mark>Mantine</mark>
@@ -134,7 +134,10 @@ content:
         # quote: >
         #   Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
-          As an Administrative Clerk at Vital Statistics, I have honed my skills in managing computer databases, ensuring the up-to-date maintenance of client information. My responsibilities extend to performing a variety of clerical duties, such as processing event certificates and managing stationary inventories. I have also assisted in accessing and maintaining the confidential information vault, working closely with the manager to fulfill archival and daily operational requirements of the branch.
+          *	Operated the computer databases of Vital Statistics to update client information on various fronts of the total database.
+          *	Performed daily clerical duties including but not limited to processing event certificates, refilling stationary inventories, photocopying etc.
+          *	Assisted the manager in routine access of confidential information vault to perform archival duties like maintenance and update of old archives.
+          *	Worked with the manager to ensure that other daily branch operational requirements are being met.
 
       - layout: left
         title: Sobeys Bakery
@@ -145,7 +148,10 @@ content:
         # quote: >
         #   Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
-          During my tenure as a Front End Associate at Sobeys Bakery from August 2021 to January 2022, I focused on delivering exceptional customer service, tailoring experiences to meet individual needs. My role involved collaborating with other departments to enhance the shopping environment and handling a variety of baked and retail goods for display. Working alongside the assistant manager and manager, I contributed to ensuring the department's operational needs were met daily.
+          *	Handle range of client service situations to provide a tailored customer service experience.
+          *	Work in conjunction with other departments to ensure a better shopping environment.
+          *	Handle and package different types of baked and retail goods and put them on display.
+          *	Work with the assistant manager & manager to ensure departmental operational requirements are daily met.
 
       - layout: left
         title: Manitoba Health
@@ -156,7 +162,11 @@ content:
         # quote: >
         #   Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
-          In my role as a Documentation Clerk for Manitoba Health from November 2020 to April 2021, I was tasked with maintaining the smooth operation of multiple branches through diligent documentation and database management. I efficiently sorted and managed client paperwork, processed a wide range of insurance claims, and prioritized daily responsibilities in collaboration with the manager and supervisor. This position allowed me to develop a keen attention to detail and a strong sense of organization.
+          *	Filled information on documentations to maintain smooth operation of multiple branches of Manitoba Health.
+          *	Operated computer databases of Manitoba Health to review and keep client information up to date.
+          *	Sorted and managed client paper works in its own accordance.
+          *	Handled a diverse range of insurance claims and processed such documents accordingly.
+          *	Worked hand in hand with the manager and the supervisor to maintain daily responsibilities in a prioritized basis.
 
       - layout: left
         title: Starbucks
@@ -167,7 +177,12 @@ content:
         # quote: >
         #   Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
-          As a Barista at Starbucks from September 2019 to March 2020, I committed myself to maintaining high levels of customer satisfaction through effective communication and active listening. I managed various client service operations, including cash handling and inventory management, to ensure the seamless delivery of service. My proactive approach to inventory prediction and collaboration with supervisors and managers enabled me to contribute meaningfully to the company's goals and adapt to a diverse range of situations.
+          *	Maintained customer satisfaction with strategic communication methods to address customer needs.
+          *	With active listening, collaborated with customers to better provide solutions tailored specifically for them.
+          *	Handled a diverse range of client service operations daily like operating the cash register.
+          *	Handled deliveries with focus on the ease of co-worker’s access to the inventory.
+          *	Made lists and predicted needs of inventories to keep up with the demands.
+          *	Worked closely with the supervisor and the manager to better understand the goals of the company and strategies to implement in diverse range of situations.
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
