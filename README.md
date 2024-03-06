@@ -52,25 +52,12 @@ When it comes writing any document that needs to be maintained or have a decent 
 
 
 7.	Now read through the file, and fill it out with your own resume contents.
+	- Copy your profile picture into the images folder, and fill out ``` about_profile_image: images/yourimagefilename.jpg ``` to insert your photo.
 	- Make sure that you are maintaining the indentation exactly as it is.
 	- Sections that start with the **‘|’** symbol supports markdown syntax, so you can easily add in bullet lists and other components from your original resume created in markdown.
-	- Most of your resume will go in the content section. Here, you can copy a section like this:
-```
-- layout: left
-        title: Database Project
-        additional_links:
-          - title: Github page for project
-            icon: fab fa-github
-            url: github.com/ColinMcD6/DatabaseProject
-        quote: >
-          This was one of the first group project that I worked on and I learned a lot about working in a team and using databases.
-        description: | # this will include new lines to allow paragraphs
-          This project was part of my third year course work in COMP 3380, and was a group project with 2 other students. We were tasked with creating a database, and also had to create an interface to interact with the database.
-          I was responsible for the adjustments and modifications of the terminal interface, and I also used my knowledge of <mark>SQL</mark> to create the database, populate it with data and make interesting <mark>queries</mark>.
-```
-and paste it below to add more entries. Similary to remove entries, you would delete the entire section.
+	- Most of your resume will go in the content section. Here, you can add or remove entire layout sections to add or remove entires as needed.
 
-8.	Save the file by going to **File** on the top left corner and pressing **save**.
+9.	Save the file by going to **File** on the top left corner and pressing **save**.
 
 Your resume is now ready to be deployed in Github.
 
@@ -78,7 +65,7 @@ Your resume is now ready to be deployed in Github.
 At this stage, we will be publishing the resume online to Github, where it will be automatically built and deployed. In cases like these where you will be maintaining your hosted resume for long periods of time, keeping track of the changes through a distributed version control system becomes paramount. This is why Andrew Etter also recommended using these tools to maintain documentation workflows in his book. And since we are also hosting using Github too, changing and maintaining your resume is much easier. For these last few steps:
 
 1.	Open GitHub Desktop
-2.	Type a short description of what you did in the bottom left corner beside your user icon. For example, you could type "_Created Resume from Template_".
+2.	Type a short description to the right of your user icon. For example, you could type "_Created Resume from Template_".
 3.	Press **Commit to main** and wait for the process to finish.
 4.	Finally, press the **Push Origin** button.
 
