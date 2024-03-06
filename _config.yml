@@ -18,17 +18,17 @@ darkmode: false
 
 #twitter_username: facespics
 github_username: sbinkader
-# stackoverflow_username: "00000001"
-# dribbble_username: jekyll
-# facebook_username: jekyll
-# flickr_username: jekyll
+#stackoverflow_username: "00000001"
+#dribbble_username: jekyll
+#facebook_username: jekyll
+#flickr_username: jekyll
 #instagram_username: jameswgrant
 #linkedin_username: jameswgrant
-# xing_username: jekyll
-# pinterest_username: jekyll
+#xing_username: jekyll
+#pinterest_username: jekyll
 #youtube_username: globalmtb
-# googleplus_username: +jekyll
-# orcid_username: 0000-0000-0000-0000
+#googleplus_username: +jekyll
+#orcid_username: 0000-0000-0000-0000
 
 # About Section - this is where you will enter your personal information. For images, add an image to the images folder and put in the directory like this "images/yourimagename.jpg"
 about_title: About Me
@@ -37,6 +37,7 @@ about_content:
   | # This will include new lines to allow paragraphs - this is where you will enter your about me information. Similar to how I have it, put in 2 spaces/1 tab in the new line and then start typing.
   Hi, my name is Safran and I'm a fourth year computer science major student. Throughout my degree I have worked on a variety of projects and developed a passion for front-end dev using various industry standard frameworks. I am most skilled in: <mark>react</mark> and <mark>Mantine</mark>
 
+# This is where you will enter your experience, projects and education. To remove entries, delete an entire layout section that ends with description. To add more, copy an entire layout section and paste it below the last one. Make sure to keep the indentations correct.
 content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
