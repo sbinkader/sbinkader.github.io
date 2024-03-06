@@ -1,5 +1,5 @@
 # Host Your First Resume Online
-Follow alongside this readme if you want to host your first resume online using Github Pages! We will going over the practical steps that you have to go through to host a beautiful looking resume using a Jekyll template.
+Follow alongside this readme if you want to host your resume online using Github Pages! We will be going over the practical steps needed to host a beautiful looking resume using a Jekyll template.
 
 ## Purpose
 Applying Andrew Etter's Modern Technical Writing principles to host a resume online using GitHub Pages, Jekyll, Markdown & Visual Studio Code.
@@ -10,14 +10,13 @@ You will need these steps figured out before you can start following the rest of
 * A GitHub Account
 * If you do not have an account with Github already, head over to [GitHub](https://github.com/) to create one.
 * Github Desktop Software
-   * To work with the resume template, you will need Git version control system installed on your computer. Fortunately, installing Github desktop already takes care of that. Head over to [Github Desktop](https://desktop.github.com/) to download Github desktop for your specific operating system.
-    * If you are having trouble getting started, this [documentation](https://docs.github.com/en/desktop/overview/getting-started-with-github-desktop) offers a great introduction to using Git.
+   * To work with the resume template, you will need Git version control system installed on your computer. Head over to [Github Desktop](https://desktop.github.com/) to download Github desktop for your specific operating system.
+    * If you are having trouble getting started, this [documentation](https://docs.github.com/en/desktop/overview/getting-started-with-github-desktop) offers a great introduction to using Github Desktop.
 * A Code Editor
-    * We will need a code editor to edit the configuration file of the template that we will be using.
     * While any basic code editor would do, we will be using Visual Studio Code. Go to their [website](https://code.visualstudio.com/download) to download the editor for your operating system.
     * If you having trouble installing VS Code, follow this [documentation](https://code.visualstudio.com/docs) for more information.
 * A resume using Markdown
-    * Even though we will be following a template, certain inputs will support markdown syntax if you want to add some additional information. Refer to [more resources](#moreResources) if you need some guidance learning markdown.
+    * Even though we will be following a template, certain inputs will support markdown syntax if you want to add some additional information. Refer to [more resources](#moreResources) for a markdown tutorial.
 
 ## Step 1: Setting up your repository.
 As Andrew Etter so eloquently explained in his book, everyone should be striving towards publishing their content to a website instead of creating content that are locally stored. Locally stored content are easy to forget about, and are often not updated or kept in sync. By only having an URL to your hosted site, anyone can view your most up-to-date resume unlike a PDF file that keeps getting out of date. For our purposes, we will be using Github pages to host your website.
