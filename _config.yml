@@ -5,7 +5,7 @@ favicon: images/favicon.ico
 # Content configuration version
 version: 2
 
-# Personal info
+# Personal info - this is where you will enter your personal information.
 name: Safran Bin Kader
 title: Computer Science Major
 email: binkades@myumanitoba.ca
@@ -14,7 +14,8 @@ website: sbinkader.github.io
 # Dark Mode (true/false/never)
 darkmode: false
 
-# Social links
+# Social links - these are the social media links that you want to include in your resume. You can add more by removing the hashtag putting in your username.
+
 #twitter_username: facespics
 github_username: sbinkader
 # stackoverflow_username: "00000001"
@@ -29,25 +30,11 @@ github_username: sbinkader
 # googleplus_username: +jekyll
 # orcid_username: 0000-0000-0000-0000
 
-# Additional icon links
-# additional_links:
-#   - title: itsgoingto.be
-#     icon: fas fa-globe
-#     url: https://www.itsgoingto.be
-# - title: another link
-#   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
-#   url: Link url (eg. https://google.com)
-
-# Google Analytics and Tag Manager
-# Using more than one of these may cause issues with reporting
-# gtm: "GTM-0000000"
-# gtag: "UA-00000000-0"
-# google_analytics: "UA-00000000-0"
-
-# About Section
+# About Section - this is where you will enter your personal information. For images, add an image to the images folder and put in the directory like this "images/yourimagename.jpg"
 about_title: About Me
 about_profile_image: images/originalProfile1.jpg
-about_content: | # this will include new lines to allow paragraphs
+about_content:
+  | # This will include new lines to allow paragraphs - this is where you will enter your about me information. Similar to how I have it, put in 2 spaces/1 tab in the new line and then start typing.
   Hi, my name is Safran and I'm a fourth year computer science major student. Throughout my degree I have worked on a variety of projects and developed a passion for front-end dev using various industry standard frameworks. I am most skilled in: <mark>react</mark> and <mark>Mantine</mark>
 
 content:
@@ -56,15 +43,10 @@ content:
     content:
       - layout: left
         title: Database Project
-        #link: github.com/ColinMcD6/DatabaseProject
-        # link_text: Project Website
         additional_links:
-          - title: sproogen/modern-resume-theme
+          - title: Github page for project
             icon: fab fa-github
             url: github.com/ColinMcD6/DatabaseProject
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
           This was one of the first group project that I worked on and I learned a lot about working in a team and using databases.
         description: | # this will include new lines to allow paragraphs
@@ -72,15 +54,10 @@ content:
 
       - layout: left
         title: Human Computer Interaction Project
-        #link: github.com/ColinMcD6/DatabaseProject
-        # link_text: Project Website
         additional_links:
-          - title: sproogen/modern-resume-theme
+          - title: Github page for project
             icon: fab fa-github
             url: github.com/NicBG/Grocery-Store-Interface
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
           The very first project that introduced me to the world of front-end development and react, and it was love at first sight.
         description: | # this will include new lines to allow paragraphs
@@ -89,15 +66,10 @@ content:
 
       - layout: left
         title: Software Engineering 1 Project
-        #link: github.com/ColinMcD6/DatabaseProject
-        # link_text: Project Website
         additional_links:
-          - title: sproogen/modern-resume-theme
+          - title: Github page for project
             icon: fab fa-github
             url: github.com/sbinkader/G3Canada
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
           Software Engineering 1 was a great course that taught me a lot about working in a team and using agile methodologies.
         description: | # this will include new lines to allow paragraphs
@@ -106,15 +78,10 @@ content:
 
       - layout: left
         title: Software Engineering 2 Project (Current Project)
-        #link: github.com/ColinMcD6/DatabaseProject
-        # link_text: Project Website
         additional_links:
-          - title: sproogen/modern-resume-theme
+          - title: Github page for project
             icon: fab fa-github
             url: github.com/br-cz/neighbourhood
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
           Taking my software engineering skills to the next level, I am currently working on a project that is much more complex.
         description: | # this will include new lines to allow paragraphs
@@ -128,7 +95,7 @@ content:
       - layout: left
         title: Vital Statistics Manitoba
         link: vitalstats.gov.mb.ca/
-        # link_text: boringcompany.com
+        #link_text: Website
         sub_title: Administrative Clerk
         caption: January 2022 - May 2023
         # quote: >
@@ -142,7 +109,7 @@ content:
       - layout: left
         title: Sobeys Bakery
         link: sobeys.com/stores/sobeys-pembina/
-        # link_text: boringcompany.com
+        #link_text: Website
         sub_title: Front End Associate
         caption: August 2021 - January 2022
         # quote: >
@@ -156,7 +123,7 @@ content:
       - layout: left
         title: Manitoba Health
         link: gov.mb.ca/health/
-        # link_text: boringcompany.com
+        #link_text: Website
         sub_title: Documentation  Clerk
         caption: November 2020 - April 2021
         # quote: >
@@ -171,7 +138,7 @@ content:
       - layout: left
         title: Starbucks
         link: starbucks.ca/
-        # link_text: boringcompany.com
+        #link_text: Website
         sub_title: Barista
         caption: September 2019 - March 2020
         # quote: >
@@ -195,7 +162,6 @@ content:
           Established in 1877, University of Manitoba is one of the oldest higher education institution in Canada and has a strong research focus with a Nobel Prize winning faculty.
         # description: | # this will include new lines to allow paragraphs
         #   During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
-
         #   I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
 
   - title: A Little More About Me
@@ -204,10 +170,6 @@ content:
       Alongside my interests in networks and software engineering some of my other interests and hobbies are:
       - Gaming
       - Lifting Weights?
-    # - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
-
-    # Look at this cool image
-    # ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
 
 # Footer
 footer_show_references: true
