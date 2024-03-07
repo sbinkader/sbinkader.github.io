@@ -3,7 +3,7 @@ Follow alongside this readme if you want to host your resume online using Github
 
 ## Purpose
 Applying Andrew Etter's Modern Technical Writing principles to host a resume online using GitHub Pages, Jekyll, Markdown & Visual Studio Code.
-![Testing](https://github.com/sbinkader/sbinkader.github.io/blob/main/Resume%20Demo.gif)
+![Animated Resume Demo](https://github.com/sbinkader/sbinkader.github.io/blob/main/Resume%20Demo.gif)
 [View Demo Resume](https://sbinkader.github.io/)
 ## Prerequisites
 You will need these steps figured out before you can start following the rest of this guide:
