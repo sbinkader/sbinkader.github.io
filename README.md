@@ -30,10 +30,10 @@ To get started,
 
 ![Repository Page](https://drive.google.com/uc?id=1p57N3kM4KVbcx7xJSvNqhbypZg2ephMB)
 
-6.	Click on the **setting** button at the top middle of the page, and then select **Pages** from the left sidebar.
-7.	Under the Build and deployment section, choose ```main``` for Branch and make sure that source is picked to be ```Deploy from a branch```.
+6.	Click on the **settings** button at the top middle of the page, and then select **Pages** from the left sidebar.
+7.	Under the Build and deployment section, choose ```main``` for Branch and make sure that ```Deploy from a branch``` is selected for source.
 8.	Press on **save**.
-At this point you will have your repository full set-up with automated build and deployment by Github pages with the template that you have forked.
+At this point you will have your repository fully set-up with automated build and deployment by Github pages with the template that you have forked.
 
 ## Step 2: Editing Resume Template using VS Code.
 When it comes writing any document that needs to be maintained or have a decent lifespan, Andrew Etter recommends using a lightweight markup language like markdown. This is because lightweight markup languages makes content easier to read, write and maintain. Instead of restricting contributions by being difficult to access or learn, a lightweight markup language is very easy to learn, and is available everywhere. Even this Readme was written in markdown, and Github can automatically preview your markdown content. So to start editing our resume:
