@@ -68,7 +68,7 @@ At this stage, we will be publishing the resume online to Github, where it will 
 3.	Press **Commit to main** and wait for the process to finish.
 4.	Finally, press the **Push Origin** button.
 
-And that is it! You resume should be built and deployed in Github after a few minutes now. When the process has finished, you will be able to see your resume online at yourusername.github.io.
+And that is it! You resume should be built and deployed in Github after a few minutes now. When the process has finished, you will be able to see your resume online at [yourusername.github.io]().
 
 
 ## <a name="moreResources"></a> More Resources
