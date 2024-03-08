@@ -82,8 +82,8 @@ And that is it! You resume should be built and deployed in Github after a few mi
 * AJ Manigque and Rizaldi Wijaya for peer reviewing this readme and resume.
 
 ## Frequently Asked Questions
-### Can I setup custom domain names with GitHub Pages?
-Yes, you can setup custom domain names for your sites hosted with Github Pages. The detailed process on how to do it can be found [here](https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site/managing-a-custom-domain-for-your-github-pages-site).
+### Why is markdown better than a wordprocessor?
+A lightweight markup language like Markdown allows you to easily create and read content that can be converted to other formats as needed. A typical word processor like Microsoft Word creates XML-based file format behind the scenes, and XML files can be hard to share and even harder to read. Markdown allows you to create the same content in a more digestible format that can be easily converted to XML format if needed, making the use of it the better choice. 
 ### How do I change my template?
 You can visit Jekyll's theme [website](http://jekyllthemes.org/) to browse existing collections, and then if you open a template that you like, you can press **Home** to get to the GitHub repository for that template. The README section of the repository will guide you on the exact process to changing your template. 
 
