@@ -82,7 +82,7 @@ And that is it! You resume should be built and deployed in Github after a few mi
 
 ## Frequently Asked Questions
 ### Why is markdown better than a wordprocessor?
-A lightweight markup language like Markdown allows you to easily create and read content that can be converted to other formats as needed. A typical word processor like Microsoft Word creates XML-based file format behind the scenes, and XML files can be hard to share and even harder to read. Markdown allows you to create the same content in a more digestible format that can be easily converted to XML format if needed, making the use of it a better choice. 
+A lightweight markup language like Markdown allows you to easily create and read content that can be converted to other formats as needed. A typical word processor like Microsoft Word creates XML-based file format behind the scenes, and XML files can be hard to share and even harder to read. Markdown allows you to create the same content in a more digestible format that can be easily converted to XML if needed, making the use of it a better choice. 
 ### How do I change my template?
 You can visit Jekyll's theme [website](http://jekyllthemes.org/) to browse existing collections, and then if you open a template that you like, you can press **Home** to get to the GitHub repository for that template. The _README_ section of the repository will guide you on the exact process to changing your template. 
 
