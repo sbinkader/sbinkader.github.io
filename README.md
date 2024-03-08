@@ -55,7 +55,7 @@ When it comes writing any document that needs to be maintained or have a decent 
 	- Copy your profile picture into the images folder, and fill out ``` about_profile_image: images/yourimagefilename.jpg ``` to insert your photo.
 	- Make sure that you are maintaining the indentation exactly as it is.
 	- Sections that start with the **‘|’** symbol supports markdown syntax, so you can easily add in bullet lists and other components from your original resume created in markdown.
-	- Most of your resume will go in the content section. Here, you can add or remove entire layout sections to add or remove entires as needed.
+	- Most of your resume will go in the content section. Here, you can add or remove existing layout sections to add or remove entries as needed.
 9.	Save the file by going to **File** on the top left corner and pressing **save**.
 
 Your resume is now ready to be deployed in Github.
