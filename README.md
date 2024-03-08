@@ -22,9 +22,9 @@ You will need these steps figured out before you can start following the rest of
 As Andrew Etter so eloquently explained in his book, everyone should be striving towards publishing their content to a website instead of creating content that are locally stored. Locally stored content are easy to forget about, and are often not updated or kept in sync. By only having an URL to your hosted site, anyone can view your most up-to-date resume unlike a PDF file that keeps getting out of date. For our purposes, we will be using Github pages to host your website.
 To get started,
 1.	Go to [GitHub](https://github.com/) and login to your account.
-2.	Click on this [link](https://github.com/sbinkader/sbinkader.github.io/fork) to create a fork that is based on this repository.
+2.	Click this [link](https://github.com/sbinkader/sbinkader.github.io/fork) to create a fork that is based on this repository.
     - This will automatically import all the files from the repository that we will be using as a template to build your own.
-3.	Fill out Repository name in the following format: _githubusername + .github.io_. So for example, if your Github username is _abc_, then write _abc.github.io_ as the repository name.
+3.	Fill out Repository name in the following format: "_githubusername + .github.io_". So for example, if your Github username is _abc_, then write _abc.github.io_ as the repository name.
 4.	Click on **Create fork** to complete your repository create process.
     - You should be greeted with a page now that looks like this:
 
