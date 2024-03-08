@@ -19,7 +19,7 @@ You will need these steps figured out before you can start following the rest of
     * Even though we will be following a template, certain inputs will support markdown syntax if you want to add some additional information. Refer to [more resources](#moreResources) for a markdown tutorial.
 
 ## Step 1: Setting up your repository.
-As Andrew Etter so eloquently explained in his book, everyone should be striving towards publishing their content to a website instead of creating content that are locally stored. Locally stored content are easy to forget about, and are often not updated or kept in sync. By only having an URL to your hosted site, anyone can view your most up-to-date resume unlike a PDF file that keeps getting out of date. For our purposes, we will be using Github pages to host your website.
+As Andrew Etter so eloquently explained in his book, everyone should be striving towards publishing their content to a website instead of creating content that are locally stored. Locally stored contents are easy to forget about, and are often not updated or kept in sync. By only having an URL to your hosted site, anyone can view your most up-to-date resume unlike a PDF file that keeps getting out of date. For our purposes, we will be using Github pages to host your website.
 To get started,
 1.	Go to [GitHub](https://github.com/) and login to your account.
 2.	Click this [link](https://github.com/sbinkader/sbinkader.github.io/fork) to create a fork that is based on this repository.
@@ -35,10 +35,10 @@ To get started,
 7.	Choose **main** for Branch under the **Build and deployment section**, and make sure that **Deploy from a branch** is selected for **source**.
 8.	Press on **save** to save your settings.
 
-At this point you will have your repository fully set-up with automated build and deployment by Github pages with the template that you have forked.
+At this point you will have your repository fully set-up with automated build and deployment by Github pages.
 
 ## Step 2: Editing Resume Template using VS Code.
-When it comes writing any document that needs to be maintained or have a decent lifespan, Andrew Etter recommends using a lightweight markup language like markdown. This is because lightweight markup languages makes content easier to read, write and maintain. Instead of restricting contributions by being difficult to access or learn, a lightweight markup language is very easy to learn, and is available everywhere. Even this Readme was written in markdown, and Github can automatically preview your markdown content. So to start editing our resume:
+When it comes writing any document that needs to be maintained or have a decent lifespan, Andrew Etter recommends using a lightweight markup language like markdown. This is because lightweight markup languages makes content easier to read, write and maintain. Instead of restricting contributions by being difficult to access or learn, a lightweight markup language is very easy to learn, and is available everywhere. So, to start editing your resume:
 
 1.	Open Github Desktop and sign in to Github.
 2.	Click on **File** in the top left corner and select **clone repository**.
