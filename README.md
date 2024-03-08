@@ -64,7 +64,7 @@ Your resume is now ready to be deployed in Github.
 At this stage, we will be publishing the resume online to Github, where it will be automatically built and deployed. In cases like these where you will be maintaining your hosted resume for long periods of time, keeping track of the changes through a distributed version control system becomes paramount. This is why Andrew Etter also recommended using these tools to maintain documentation workflows in his book. And since we are also hosting using Github too, changing and maintaining your resume is much easier. For these last few steps:
 
 1.	Open GitHub Desktop.
-2.	Type a short description to the right of your user icon. For example, you could type "_Created Resume from Template_".
+2.	Type a short description to the right of your user icon at the bottom left corner. For example, you could type "_Created Resume from Template_".
 3.	Press **Commit to main** and wait for the process to finish.
 4.	Press the **Push Origin** button to push your changes online to Github.
 
